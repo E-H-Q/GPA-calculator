@@ -17,3 +17,7 @@ four = four / 20 - 1
 five = five / 20 - 1
 six = six / 20 - 1
 seven = seven / 20 - 1
+
+total = one + two + three + four + five + six + seven
+gpa = total / 7
+print (round(gpa,1))
