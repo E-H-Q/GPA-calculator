@@ -9,3 +9,11 @@ four = input ("4th class: ")
 five = input ("5th class: ")
 six = input ("6th class: ")
 seven = input ("7th class: ")
+
+one = one / 20 - 1
+two = two / 20 - 1
+three = three / 20 -1
+four = four / 20 - 1
+five = five / 20 - 1
+six = six / 20 - 1
+seven = seven / 20 - 1
